@@ -3,9 +3,9 @@ CTIS 256 Term Project
 
 
 #### Technologies we used
-1. PHP
-2. MySQL
-3. Ajax
+* PHP
+* MySQL
+* Ajax
 
 
 #### BAZINGA contains some features
