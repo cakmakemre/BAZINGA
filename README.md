@@ -2,7 +2,7 @@
 CTIS 256 Term Project
 
 
-####Technologies we used
+#### Technologies we used
                 
 1. PHP
 2. MySQL
