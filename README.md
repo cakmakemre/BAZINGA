@@ -17,6 +17,7 @@ CTIS 256 Term Project
 6. Change User's Settings
 7. Add-Delete Friend Notifications
 8. Session & Cookie Operations
+9. Database CRUD Operations
 
 
 #### Security Part
