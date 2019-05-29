@@ -15,7 +15,7 @@ CTIS 256 Term Project
 4. Sharing post without refreshing - AJAX
 5. Like post
 6. Change User's Settings
-7. Add-Delete friend Notifications
+7. Add-Delete Friend Notifications
 8. Session & Cookie Operations
 
 
