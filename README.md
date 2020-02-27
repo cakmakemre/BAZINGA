@@ -7,7 +7,7 @@ CTIS 256 Term Project
 * MySQL
 * Ajax
 
-*We used HTML&CSS template for this project.
+*We used template for this project.
 
 #### BAZINGA contains some features
 1. Login & Register Pages
